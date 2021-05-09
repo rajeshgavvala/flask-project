@@ -1,6 +1,6 @@
 # Virtual Environment folder
 venv/
-
+# IntelliJ IDE, all the project-specific settings
 .idea/
-
+# Python bytecode cache files
  __pycache__/
